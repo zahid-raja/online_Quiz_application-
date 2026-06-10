@@ -1,0 +1,5 @@
+com\quiz\controller\StudentExamController.class
+com\quiz\controller\SubmissionAndRankingServlet.class
+com\quiz\controller\MainControllerServlet$1.class
+com\quiz\config\FirebaseRegistry.class
+com\quiz\controller\MainControllerServlet.class
